@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.instagram.com'
   name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/4da1e40/images/ico/favicon.ico'
   domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/4da1e40/images/ico/favicon.ico'
 keywords: []
 app_links:
   - url: 'instagram://media?id=1135106771044514696'
@@ -21,13 +21,17 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/p/_AtZgeP7uI/?taken-by=cacaoenna'
 title: 'Drinking chocolate with my 70% Tanzania #kokoakamili #tanzania #beantobar #craftchocolate #artisanchocolate #maker #drinkingchocolate #cacao #ennachocolate'
-datePublished: '2015-12-21T13:28:48.452Z'
-dateModified: '2015-12-21T13:28:09.617Z'
+datePublished: '2015-12-21T13:59:17.621Z'
+dateModified: '2015-12-21T13:59:06.127Z'
 sourcePath: _posts/2015-12-21-drinking-chocolate-with-my-70-tanzania-kokoakamili-tanzan.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+description: ''
+authors: []
 _type: Photograph
 _context: 'http://schema.org'
 
