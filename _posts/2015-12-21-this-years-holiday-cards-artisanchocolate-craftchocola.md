@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.instagram.com'
   name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/4da1e40/images/ico/favicon.ico'
   domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/4da1e40/images/ico/favicon.ico'
 keywords: []
 app_links:
   - url: 'instagram://media?id=1143922289775982793'
@@ -21,13 +21,17 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/p/_gB0MEv7jJ/?taken-by=cacaoenna'
 title: "This year's holiday cards... #artisanchocolate #craftchocolate #beantobar #singleorigin #kokoakamili"
-datePublished: '2015-12-21T13:28:37.932Z'
-dateModified: '2015-12-21T13:28:19.797Z'
+datePublished: '2015-12-21T13:31:04.299Z'
+dateModified: '2015-12-21T13:30:50.918Z'
 sourcePath: _posts/2015-12-21-this-years-holiday-cards-artisanchocolate-craftchocola.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+description: ''
+authors: []
 _type: Photograph
 _context: 'http://schema.org'
 
