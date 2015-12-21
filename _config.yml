@@ -1,0 +1,28 @@
+name: Enna Chocolate
+favicon: null
+layout_spectrum: 0.024040972348302603
+typography_spectrum: 0.34202658059075475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8433548472821712
+  lightness: 0.6896953424438834
+  saturation: 0.7944576155859977
+  rhythmicContrast: 0.15618296014145017
+purpose: []
